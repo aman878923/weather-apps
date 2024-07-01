@@ -5,6 +5,7 @@
   "type": "module",
   "homepage": "https://aman878923.github.io/weather-apps",
   "scripts": {
+   
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
     "dev": "vite",
